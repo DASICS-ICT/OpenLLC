@@ -1,12 +1,12 @@
 [submodule "coupledL2"]
 	path = coupledL2
-	url = https://github.com/OpenXiangShan/CoupledL2
+	url = https://github.com/DASICS-ICT/CoupledL2.git
 [submodule "rocket-chip"]
 	path = rocket-chip
-	url = https://github.com/OpenXiangShan/rocket-chip
+	url = https://github.com/DASICS-ICT/rocket-chip.git
 [submodule "utility"]
 	path = utility
-	url = https://github.com/OpenXiangShan/Utility
+	url = https://github.com/DASICS-ICT/Utility.git
 [submodule "openNCB"]
 	path = openNCB
-	url = https://github.com/OpenXiangShan/OpenNCB
+	url = https://github.com/DASICS-ICT/OpenNCB.git
